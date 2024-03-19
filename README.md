@@ -1,5 +1,3 @@
-# stopwatch
+# [Stopwatch](https://github.com/dgrochowski/stopwatch)
 
 Online stopwatch, time counter
-
-[https://dgrochowski.github.io/stopwatch]()
